@@ -12,9 +12,10 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
+<!--     - 🔭 I’m currently working on RPA </br> -->
+    - 🌱 I'm still at the stage of learning programming</br>
+<!--     - 🌱 I’m currently learning Python,SwiftUI and UIKit </br> -->
+<!--     - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br> -->
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="maulanalana363@gmail.com">Email me!</a>  </br>
