@@ -1,5 +1,7 @@
-# Hi there 👋 , I'm Maulana !
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+<h1 align="center">Hi there 👋 , I'm Maulana !</h1> 
+I'm still a beginner in programming
+
+![](https://komarev.com/ghpvc/?username=maraiz&color=green)
 
 ### Tools:
 <p>
