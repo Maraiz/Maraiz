@@ -25,8 +25,8 @@ I'm still a beginner in programming
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=maraiz&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maraiz&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=Maraiz&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maraiz&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
