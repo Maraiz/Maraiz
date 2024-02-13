@@ -20,7 +20,7 @@ I'm still a beginner in programming
 <!--     - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br> -->
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="maulanalana363@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:maulanalana363@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
