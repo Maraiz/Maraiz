@@ -39,6 +39,7 @@ I'm still a beginner in programming
         <a href="#" target="blank"><img src="https://img.shields.io/badge/marai7_-30302f?style=flat&logo=discord" /></a>
     <a href="https://twitter.com/AnakBudiman4" target="blank"><img src="https://img.shields.io/badge/@AnakBudiman04_-30302f?style=flat&logo=x" /></a>
     <a href="https://github.com/Maraiz" target="blank"><img src="https://img.shields.io/badge/Maraiz_-30302f?style=flat&logo=github" /></a>
+    <a href="https://github.com/Maraiz" target="blank"><img src="https://img.shields.io/badge/Maraiz_-30302f?style=flat&logo=github" /></a>
 <!--     <a href="#" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a> -->
 </p>
 
